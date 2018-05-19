@@ -1,0 +1,11 @@
+/Users/vikrants/Documents/src/bin/Debug/netcoreapp2.0/src.deps.json
+/Users/vikrants/Documents/src/bin/Debug/netcoreapp2.0/src.runtimeconfig.json
+/Users/vikrants/Documents/src/bin/Debug/netcoreapp2.0/src.runtimeconfig.dev.json
+/Users/vikrants/Documents/src/bin/Debug/netcoreapp2.0/src.dll
+/Users/vikrants/Documents/src/bin/Debug/netcoreapp2.0/src.pdb
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.csproj.CoreCompileInputs.cache
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.AssemblyInfoInputs.cache
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.AssemblyInfo.cs
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.dll
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.pdb
+/Users/vikrants/Documents/src/obj/Debug/netcoreapp2.0/src.csprojResolveAssemblyReference.cache
